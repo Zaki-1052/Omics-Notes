@@ -1,0 +1,20 @@
+{
+  "stateMaps": [
+    {
+      "key": "state",
+      "structure": "keyValue",
+      "values": [
+        "waiting",
+        "ongoing",
+        "completed"
+      ]
+    },
+    {
+      "key": "",
+      "structure": "keyValue",
+      "values": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "templater-obsidian:_templates/lecture_template.md.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "quickadd:choice:04af03dc-d9b6-45f8-b6df-445c2be22327": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ]
+}

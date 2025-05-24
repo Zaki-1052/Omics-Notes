@@ -1,0 +1,6 @@
+{
+  "rExecutablePath": "/usr/lib/R/bin/R",
+  "rstudioPandocPath": "/usr/lib/rstudio/resources/app/bin/quarto/bin/tools/aarch64",
+  "quartoExecutablePath": "",
+  "enableFloatingMenu": true
+}
